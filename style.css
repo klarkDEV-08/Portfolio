@@ -91,6 +91,15 @@ body.dark-mode {
   color: white;
 }
 
+/*Alterar Tema*/
+#alterar-tema {
+  border: none;
+  width: 3%;
+  height: 4vh;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 .section-title {
   font-size: 1.875rem;
   font-weight: 700;
